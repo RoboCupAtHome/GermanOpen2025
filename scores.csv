@@ -1,0 +1,11 @@
+Stage,Task,Team,Score
+1,Receptionist,Team A,101
+1,Receptionist,Team B,201
+1,Receptionist,Team C,0
+1,GPSR,Team A,102
+1,GPSR,Team B,202
+1,Receptionist,Team C,0
+2,Cleanup,Team A,1000
+2,Cleanup,Team B,2000
+3,Finals,Team A,1000
+3,Finals,Team B,2000
