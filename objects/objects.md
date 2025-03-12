@@ -1,4 +1,4 @@
-# Class cleaning_supplies (cleaning supply)
+# Class cleaning_supplies (cleaning_supply)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
