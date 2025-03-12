@@ -47,6 +47,13 @@ On 12.03.2025 17:00 (Robot Inspection)
 | 4 | ToBI      |
 | 5 | Suturo    |
 
+## Mapping Slots
+On 12.03.2025 18:00 (10min per Team)
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | b-it bots |
+| 2 | SCC       |
 
 ![](maps/map_robot_inspection.png)
 
