@@ -61,6 +61,14 @@ Please hang your poster in the office on a free wall.
 
 ## Stage 1
 
+||Receptionist: Thu 3/13, 13:00|GPSR: Thu 3/13, 16:00|Storing Groceries: Fri 3/14, 10:00|Help Me Carry: Fri 3/14, 13:00|
+| --- | --- | --- | --- | --- |
+|1|b-it-bots|SCC|ToBI|SUTURO|
+|2|SCC|SUTURO|b-it-bots|NimbRo|
+|3|ToBI|NimbRo|SUTURO|SCC|
+|4|SUTURO|ToBI|NimbRo|b-it-bots|
+|5|NimbRo|b-it-bots|SCC|ToBI|
+
 ### Receptionist
 ![](maps/stage_one/map_receptionist.png)
 
