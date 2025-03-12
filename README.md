@@ -76,8 +76,9 @@ Announce host's **interest**: interest in robots
 Announce which table will be used
 Announce what will be used as cabinet
 
-### Carry my Luggage
-![](maps/stage_one/map_carry_my_luggage.png)
+### Help Me Carry
+
+Takes place outside the arena.
 
 ### GPSR
 ![](maps/stage_one/map_gpsr.png)
