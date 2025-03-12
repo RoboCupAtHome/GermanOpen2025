@@ -2,6 +2,7 @@
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
+| dishwasher_tab  |  ![](known_objects/cleaning_supplies/dishwasher_tab.jpg) |
 | cleaning_rag  |  ![](known_objects/cleaning_supplies/cleaning_rag.jpg) |
 | kitchen_cleaner  |  ![](known_objects/cleaning_supplies/kitchen_cleaner.jpg) |
 | sponge  |  ![](known_objects/cleaning_supplies/sponge.jpg) |
