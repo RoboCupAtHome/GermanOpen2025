@@ -21,7 +21,8 @@
 | 18 | bar (p) | drinks |
 | 19 | armchair (p) |
 | 20 | coat rack |
-| 21 | entrance |
-| 22 | exit |
+| 21 | cabinet |
+| 22 | entrance |
+| 23 | exit |
 
 (p) indicated whether objects can be placed at the location
