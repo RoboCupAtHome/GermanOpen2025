@@ -50,7 +50,7 @@ On 12.03.2025 17:00 (Robot Inspection)
 
 ![](maps/map_robot_inspection.png)
 
-Announce location for Poster.
+Please hang your poster in the office on a free wall.
 
 ## Stage 1
 
