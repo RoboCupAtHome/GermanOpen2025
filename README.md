@@ -64,9 +64,11 @@ Please hang your poster in the office on a free wall.
 ### Receptionist
 ![](maps/stage_one/map_receptionist.png)
 
-Announce host's favorite drink: iced_tea
-Announce host's name: James
-Announce host's interest: interest in robots
+Announce host's **favorite drink**: iced_tea
+
+Announce host's **name**: James
+
+Announce host's **interest**: interest in robots
 
 ### Storing Groceries
 ![](maps/stage_one/map_storing_groceries.png)
