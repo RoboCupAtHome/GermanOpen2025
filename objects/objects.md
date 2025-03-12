@@ -1,3 +1,10 @@
+# Class container (container)
+
+| Objectname               |  Image                   |
+:-------------------------:|:-------------------------:
+| cornflakes_container  |  ![](known_objects/container/cornflakes_container.jpg) |
+
+
 # Class cleaning_supplies (cleaning_supply)
 
 | Objectname               |  Image                   |
