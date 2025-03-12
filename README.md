@@ -27,7 +27,7 @@ Scores can be found ![scores.md](scores.md)
 |--------|---------------------|---------------------|---------------------|---------------------|--------|
 | 10:00  |                     | Robot Inspection    | Storing Groceries   | EGPSR               |        |
 | 12:00  |                     |                     |                     |                     | Finals |
-| 13:00  |                     | Storing Groceries   |                     | Clean The Table     |        |
+| 13:00  |                     | Receptionist        |                     | Clean The Table     |        |
 | 16:00  | Team Leader Meeting | GPSR                | Stickler            | Restaurant          |        |
 | 17:00  | Robot Inspection    |                     |                     |                     |        |
 | 18:30  | Welcome Reception   |                     |                     |                     |        |
