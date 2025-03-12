@@ -19,7 +19,7 @@
 
 ## Scores
 
-Scores can be found ![scores.md](scores.md)
+Scores can be found [here](scores.md)
 
 ## Schedule
 
