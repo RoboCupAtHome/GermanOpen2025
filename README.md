@@ -37,6 +37,17 @@ Scores can be found ![scores.md](scores.md)
 ## Arena
 
 ## Robot Inspection and Poster Session
+On 12.03.2025 17:00 (Robot Inspection)
+
+| Ordering  | Team Name |
+| ----- | --------- |
+| 1 | b-it bots |
+| 2 | NimbRo    |
+| 3 | SCC       |
+| 4 | ToBI      |
+| 5 | Suturo    |
+
+
 ![](maps/map_robot_inspection.png)
 
 Announce location for Poster.
