@@ -1,4 +1,4 @@
-# Class cleaning_supplies (cleaning_supply)
+# Class cleaning_supplies (cleaning supply)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
@@ -12,8 +12,8 @@
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| hafer_drink  |  ![](known_objects/drinks/hafer_drink.jpg) |
 | apple_juice  |  ![](known_objects/drinks/apple_juice.jpg) |
+| oat_milk  |  ![](known_objects/drinks/oat_milk.jpg) |
 | mezzo_mix  |  ![](known_objects/drinks/mezzo_mix.jpg) |
 | milk  |  ![](known_objects/drinks/milk.jpg) |
 | iced_tea  |  ![](known_objects/drinks/iced_tea.jpg) |
@@ -59,7 +59,7 @@
 | cracker  |  ![](known_objects/snacks/cracker.jpg) |
 
 
-# Class toiletries (toiletrie)
+# Class toiletries (toiletry)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
