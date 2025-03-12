@@ -19,9 +19,20 @@
 
 ## Scores
 
-Scores can be found ![here/scores.md](scores.md)
+Scores can be found ![scores.md](scores.md)
 
 ## Schedule
+
+| Mi 17. |                     | Do. 18.             | Fr 19.              | Sa 20.              | So 21. |
+|--------|---------------------|---------------------|---------------------|---------------------|--------|
+| 10:00  |                     | Robot Inspection    | Storing Groceries   | EGPSR               |        |
+| 12:00  |                     |                     |                     |                     | Finals |
+| 13:00  |                     | Storing Groceries   |                     | Clean The Table     |        |
+| 16:00  | Team Leader Meeting | GPSR                | Stickler            | Restaurant          |        |
+| 17:00  | Robot Inspection    |                     |                     |                     |        |
+| 18:30  | Welcome Reception   |                     |                     |                     |        |
+| 19:30  | Poster Session      | Team Leader Meeting | Team Leader Meeting | Team Leader Meeting |        |
+| 20:00  | Poster Reception    |                     |                     |                     |        |
 
 ## Arena
 

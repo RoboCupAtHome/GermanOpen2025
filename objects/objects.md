@@ -1,3 +1,0 @@
-# Class drinks (drink)
-
-TBD
