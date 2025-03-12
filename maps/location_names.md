@@ -21,7 +21,7 @@
 | 18 | bar (p) | drinks |
 | 19 | armchair (p) |
 | 20 | coat rack |
-| 21 | cabinet |
+| 21 | cabinet (p) |
 | 22 | entrance |
 | 23 | exit |
 
