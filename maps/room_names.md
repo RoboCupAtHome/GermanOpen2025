@@ -5,6 +5,6 @@
 | kitchen | 
 | office | 
 | living room | 
-| corridor | 
+| hallway | 
 
 
