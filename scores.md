@@ -1,11 +1,18 @@
 # Current Total Scores
 |   Team    | Total Score |
 | --------- | ----------: |
-| NimbRo    |      786.25 |
-| ToBI      |      696.25 |
+| NimbRo    |     1671.25 |
+| ToBI      |      926.25 |
 | SUTURO    |      435.00 |
-| SCC       |      248.75 |
+| SCC       |      398.75 |
 | b-it-bots |       35.00 |
+
+# GPSR
+|  Team  | Score |
+| ------ | ----: |
+| NimbRo |   885 |
+| ToBI   |   230 |
+| SCC    |   150 |
 
 # Receptionist
 |  Team  | Score |
@@ -15,6 +22,7 @@
 | SUTURO |   400 |
 | SCC    |   210 |
 
+
 # Poster
 |   Team    | Score |
 | --------- | ----: |
@@ -23,3 +31,4 @@
 | NimbRo    | 36.25 |
 | b-it-bots | 35.00 |
 | SUTURO    | 35.00 |
+
