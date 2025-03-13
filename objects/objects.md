@@ -9,7 +9,7 @@
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| dishwasher_tab  |  ![](known_objects/cleaning_supplies/dishwasher_tab.jpg) |
+| dishwasher_tab (tiny)  |  ![](known_objects/cleaning_supplies/dishwasher_tab.jpg) |
 | cleaning_rag  |  ![](known_objects/cleaning_supplies/cleaning_rag.jpg) |
 | kitchen_cleaner  |  ![](known_objects/cleaning_supplies/kitchen_cleaner.jpg) |
 | sponge  |  ![](known_objects/cleaning_supplies/sponge.jpg) |
@@ -20,7 +20,7 @@
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| apple_juice  |  ![](known_objects/drinks/apple_juice.jpg) |
+| apple_juice (heavy) |  ![](known_objects/drinks/apple_juice.jpg) |
 | oat_milk  |  ![](known_objects/drinks/oat_milk.jpg) |
 | mezzo_mix  |  ![](known_objects/drinks/mezzo_mix.jpg) |
 | milk  |  ![](known_objects/drinks/milk.jpg) |
@@ -37,7 +37,7 @@
 | pasta  |  ![](known_objects/food/pasta.jpg) |
 | cornflakes  |  ![](known_objects/food/cornflakes.jpg) |
 | sweetener  |  ![](known_objects/food/sweetener.jpg) |
-| creamer  |  ![](known_objects/food/creamer.jpg) |
+| creamer (tiny) |  ![](known_objects/food/creamer.jpg) |
 | tomato_soup  |  ![](known_objects/food/tomato_soup.jpg) |
 | instant_noodles  |  ![](known_objects/food/instant_noodles.jpg) |
 | red_cabbage  |  ![](known_objects/food/red_cabbage.jpg) |
@@ -53,7 +53,7 @@
 | lemon  |  ![](known_objects/fruits/lemon.jpg) |
 | peach  |  ![](known_objects/fruits/peach.png) |
 | orange  |  ![](known_objects/fruits/orange.jpg) |
-| strawberry  |  ![](known_objects/fruits/strawberry.png) |
+| strawberry (tiny)  |  ![](known_objects/fruits/strawberry.png) |
 | banana  |  ![](known_objects/fruits/banana.png) |
 
 
@@ -62,7 +62,7 @@
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
 | crisps  |  ![](known_objects/snacks/crisps.jpg) |
-| gum  |  ![](known_objects/snacks/gum.jpg) |
+| gum  (tiny) |  ![](known_objects/snacks/gum.jpg) |
 | chocolate_peanuts  |  ![](known_objects/snacks/chocolate_peanuts.jpg) |
 | cracker  |  ![](known_objects/snacks/cracker.jpg) |
 
