@@ -83,6 +83,8 @@ Announce host's **interest**: interest in robots
 
 Announce which table will be used
 Announce what will be used as cabinet
+Announce tiny objects: dishwasher_tab, creamer, strawberry, gum
+Announce heavy objects: apple_juice
 
 ### Help Me Carry
 
