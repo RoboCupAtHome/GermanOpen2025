@@ -1,4 +1,7 @@
 ## Locations
+
+![](RCGO2025-arena-places.png)
+
 | Number | Name  | Object Category
 | ------------ | ----------- | ----------- |
 | 1 | chair (p) |
