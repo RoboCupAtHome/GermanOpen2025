@@ -1,15 +1,3 @@
-Q: What is the highest mountain in the Netherlands?
-A: The Vaalserberg is the highest mountain in the Netherlands, although parts of the mountain belong to Belgium and Germany.
-
-Q: Which painter created the Night Watch?
-A: It was created by the dutch painter Rembrandt.
-
-Q: What is the largest lake in the Netherlands?
-A: The largest lake in the Netherlands is the Ijsselmeer.
-
-Q: Who is the current Baron of Eindhoven?
-A: King Willem-Alexander of the Netherlands.
-
 Q: What traditional food is Nuremberg famous for?
 A: Nuremberg is famous for its local speciality gingerbread.
 
