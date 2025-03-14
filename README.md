@@ -97,6 +97,14 @@ Takes place outside the arena.
 
 ## Stage 2
 
+|     |Stickler: Fri 3/14, 16:00|E-GPSR, Sat 3/15, 10:00|Clean the Table, Sat 3/15, 13:00|Restaurant, Sat 3/15, 16:00|
+| --- | --- | --- | --- | --- |
+|1    |NimbRo|SCC|ToBI|SUTURO|
+|2    |ToBI|b-it-bots|SCC|NimbRo|
+|3    |SCC|NimbRo|SUTURO|b-it-bots|
+|4    |SUTURO|SUTURO|b-it-bots|ToBI|
+|5    |b-it-bots|ToBI|NimbRo|SCC|
+
 ### Clean the Table
 ![](maps/stage_two/map_clean_the_table.png)
 
