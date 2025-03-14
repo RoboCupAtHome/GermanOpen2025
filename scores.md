@@ -3,8 +3,8 @@
 | --------- | ----------: |
 | NimbRo    |     1976.25 |
 | ToBI      |     1186.25 |
-| SUTURO    |      615.00 |
-| SCC       |      413.75 |
+| SCC       |      913.75 |
+| SUTURO    |      815.00 |
 | b-it-bots |       50.00 |
 
 # Storing Groceries
@@ -15,14 +15,6 @@
 | SUTURO    |   180 |
 | b-it-bots |    15 |
 | SCC       |    15 |
-
-# Receptionist
-|  Team  | Score |
-| ------ | ----: |
-| NimbRo |   750 |
-| ToBI   |   660 |
-| SUTURO |   400 |
-| SCC    |   210 |
 
 # Poster
 |   Team    | Score |
@@ -40,4 +32,20 @@
 | ToBI   |   230 |
 | SCC    |   150 |
 
+# Receptionist
+|  Team  | Score |
+| ------ | ----: |
+| NimbRo |   750 |
+| ToBI   |   660 |
+| SUTURO |   400 |
+| SCC    |   210 |
+
+# Help me Carry
+|   Team    | Score |
+| --------- | ----: |
+| SCC       |   500 |
+| SUTURO    |   200 |
+| b-it-bots |     0 |
+| NimbRo    |     0 |
+| ToBI      |     0 |
 
