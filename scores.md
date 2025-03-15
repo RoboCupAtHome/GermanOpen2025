@@ -1,19 +1,18 @@
-# Current Total Scores
+# Finals
+|  Team  | Score |
+| ------ | ----: |
+| NimbRo |     0 |
+| SCC    |     0 |
+| ToBI   |     0 |
+
+# Total Score After Stage 1+2
 |   Team    | Total Score |
 | --------- | ----------: |
 | NimbRo    |     4321.25 |
 | ToBI      |     1551.25 |
-| SCC       |     1178.75 |
-| SUTURO    |     1030.00 |
+| SCC       |     1498.75 |
+| SUTURO    |     1130.00 |
 | b-it-bots |       50.00 |
-
-# Stickler
-|   Team    | Score |
-| --------- | ----: |
-| NimbRo    |  1300 |
-| SCC       |   100 |
-| ToBI      |   100 |
-| b-it-bots |     0 |
 
 # Cleanup
 |   Team    | Score |
@@ -22,6 +21,22 @@
 | SUTURO    |   215 |
 | ToBI      |    65 |
 | SCC       |    15 |
+| b-it-bots |     0 |
+
+# Restaurant
+|  Team  | Score |
+| ------ | ----: |
+| SCC    |   320 |
+| SUTURO |   100 |
+| NimbRo |     0 |
+| ToBI   |     0 |
+
+# Stickler
+|   Team    | Score |
+| --------- | ----: |
+| NimbRo    |  1300 |
+| SCC       |   100 |
+| ToBI      |   100 |
 | b-it-bots |     0 |
 
 # EGPSR
@@ -41,22 +56,6 @@
 | SCC       |      913.75 |
 | SUTURO    |      815.00 |
 | b-it-bots |       50.00 |
-
-# Storing Groceries
-|   Team    | Score |
-| --------- | ----: |
-| NimbRo    |   305 |
-| ToBI      |   260 |
-| SUTURO    |   180 |
-| b-it-bots |    15 |
-| SCC       |    15 |
-
-# GPSR
-|  Team  | Score |
-| ------ | ----: |
-| NimbRo |   885 |
-| ToBI   |   230 |
-| SCC    |   150 |
 
 # Poster
 |   Team    | Score |
@@ -83,4 +82,20 @@
 | b-it-bots |     0 |
 | NimbRo    |     0 |
 | ToBI      |     0 |
+
+# Storing Groceries
+|   Team    | Score |
+| --------- | ----: |
+| NimbRo    |   305 |
+| ToBI      |   260 |
+| SUTURO    |   180 |
+| b-it-bots |    15 |
+| SCC       |    15 |
+
+# GPSR
+|  Team  | Score |
+| ------ | ----: |
+| NimbRo |   885 |
+| ToBI   |   230 |
+| SCC    |   150 |
 
