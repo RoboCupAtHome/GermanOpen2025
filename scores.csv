@@ -21,7 +21,12 @@ Stage,Task,Team,Score
 1,Help me Carry,SCC,500
 1,Help me Carry,SUTURO,200
 1,Help me Carry,ToBI,0
-1,Stickler,b-it-bots,0
-1,Stickler,NimbRo,1300
-1,Stickler,SCC,100
-1,Stickler,ToBI,100
+2,Stickler,b-it-bots,0
+2,Stickler,NimbRo,1300
+2,Stickler,SCC,100
+2,Stickler,ToBI,100
+2,EGPSR,SUTURO,0
+2,EGPSR,b-it-bots,0
+2,EGPSR,NimbRo,800
+2,EGPSR,SCC,150
+2,EGPSR,ToBI,200

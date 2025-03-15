@@ -1,9 +1,9 @@
 # Current Total Scores
 |   Team    | Total Score |
 | --------- | ----------: |
-| NimbRo    |     3276.25 |
-| ToBI      |     1286.25 |
-| SCC       |     1013.75 |
+| NimbRo    |     4076.25 |
+| ToBI      |     1486.25 |
+| SCC       |     1163.75 |
 | SUTURO    |      815.00 |
 | b-it-bots |       50.00 |
 
@@ -15,6 +15,24 @@
 | ToBI      |   100 |
 | b-it-bots |     0 |
 
+# EGPSR
+|   Team    | Score |
+| --------- | ----: |
+| NimbRo    |   800 |
+| ToBI      |   200 |
+| SCC       |   150 |
+| SUTURO    |     0 |
+| b-it-bots |     0 |
+
+# Total Score After Stage 1
+|   Team    | Total Score |
+| --------- | ----------: |
+| NimbRo    |     1976.25 |
+| ToBI      |     1186.25 |
+| SCC       |      913.75 |
+| SUTURO    |      815.00 |
+| b-it-bots |       50.00 |
+
 # Help me Carry
 |   Team    | Score |
 | --------- | ----: |
@@ -23,13 +41,6 @@
 | b-it-bots |     0 |
 | NimbRo    |     0 |
 | ToBI      |     0 |
-
-# GPSR
-|  Team  | Score |
-| ------ | ----: |
-| NimbRo |   885 |
-| ToBI   |   230 |
-| SCC    |   150 |
 
 # Receptionist
 |  Team  | Score |
@@ -47,6 +58,13 @@
 | SUTURO    |   180 |
 | b-it-bots |    15 |
 | SCC       |    15 |
+
+# GPSR
+|  Team  | Score |
+| ------ | ----: |
+| NimbRo |   885 |
+| ToBI   |   230 |
+| SCC    |   150 |
 
 # Poster
 |   Team    | Score |
