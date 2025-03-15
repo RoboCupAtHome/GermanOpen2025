@@ -23,7 +23,7 @@ Scores can be found [here](scores.md)
 
 ## Schedule
 
-| Mi 17. |                     | Do. 18.             | Fr 19.              | Sa 20.              | So 21. |
+|        | Mi 12.              | Do. 13.             | Fr 14.              | Sa 15.              | So 16. |
 |--------|---------------------|---------------------|---------------------|---------------------|--------|
 | 10:00  |                     | Robot Inspection    | Storing Groceries   | EGPSR               |        |
 | 12:00  |                     |                     |                     |                     | Finals |
